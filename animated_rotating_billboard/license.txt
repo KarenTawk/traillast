@@ -1,0 +1,11 @@
+Model Information:
+* title:	Animated Rotating Billboard
+* source:	https://sketchfab.com/3d-models/animated-rotating-billboard-d5d7960ac1574f94adabf03c7eea33d1
+* author:	Coroca (https://sketchfab.com/Coroca3D)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Animated Rotating Billboard" (https://sketchfab.com/3d-models/animated-rotating-billboard-d5d7960ac1574f94adabf03c7eea33d1) by Coroca (https://sketchfab.com/Coroca3D) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
